@@ -6,6 +6,6 @@
 
 🌱 I have been using Rust since June 2023.
 
-📫 How to reach me: cpasneedles@gmail.com.
+📫 How to reach me: `cpasneedles` on Discord.
 
 ✏️ Rewrite it in Rust.
