@@ -9,5 +9,3 @@
 📫 How to reach me: `cpasneedles` on Discord.
 
 ✏️ Rewrite it in Rust.
-
-I use Helix btw.
