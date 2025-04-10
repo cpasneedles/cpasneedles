@@ -1,11 +1,12 @@
 ## Hi there! 👋
 
-<!-- 🔭 I’m currently working on a secret project. -->
+🔥 Rust for life! 💻
+🦀 **I'm Needles, a Rust maximalist** 🚀
 
-👤 I'm just Needles a Rust maximalist.
+🌱 In the Rust matrix since June 2023.
 
-🌱 I have been using Rust since June 2023.
+⚡ **I use (Helix editor)[https://helix-editor.com/]** for all my coding adventures—fast, fluid, and powerful!
 
-📫 How to reach me: `cpasneedles` on Discord.
+📫 You can reach me on Discord: `cpasneedles`
 
-✏️ Rewrite it in Rust.
+✏️ **Rewrite it in Rust.** 🦀🔥
