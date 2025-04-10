@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
-🔥 Rust for life! 💻
-🦀 **I'm Needles, a Rust maximalist** 🚀
+🔥 Rust for life! <br />
+🚀 **I'm Needles, a Rust maximalist**
 
 🌱 In the Rust matrix since June 2023.
 
@@ -9,4 +9,4 @@
 
 📫 You can reach me on Discord: `cpasneedles`
 
-✏️ **Rewrite it in Rust.** 🦀🔥
+✏️ **Rewrite it in Rust.** 🦀
