@@ -8,4 +8,4 @@
 
 📫 You can reach me on Discord: `cpasneedles`
 
-✏️ **Rewrite it in Rust.** 🦀
+✏️ Rewrite it in Rust. 🦀
