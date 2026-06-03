@@ -4,8 +4,8 @@
 
 🌱 In the Rust matrix since June 2023.
 
-⚡ I use [Helix editor](https://helix-editor.com) and [VS Code](https://code.visualstudio.com/).
+⚡ I use [Neovim](https://neovim.io/).
 
-📫 You can reach me on Discord: `cpasneedles`
+📫 You can reach me on Telegram : @notneedles
 
 ✏️ Rewrite it in Rust. 🦀
