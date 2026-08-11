@@ -1,8 +1,8 @@
 ## 🦀 About Me
 
-🚀 I'm **Needles**, a Rust maximalist — with a bit of TypeScript when necessary.
+🚀 I'm **Needles**, a Rust maximalist.
 
-🌱 Writing Rust since **June 2023**.
+🌱 Writing everything in Rust since June 2023.
 
 ⚡ Building SaaS, backend systems, APIs, distributed services and infrastructure.
 
