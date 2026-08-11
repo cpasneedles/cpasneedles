@@ -1,16 +1,15 @@
-## 🦀 About Me
+## Hi there! 👋
 
-🚀 I'm **Needles**, a Rust maximalist.
+🚀 I'm Needles, a Rust maximalist.
 
-🌱 Writing everything in Rust since June 2023.
+🌱 In the Rust matrix since June 2023.
 
-⚡ Building SaaS, backend systems, APIs, distributed services and infrastructure.
+⚡ I use [Neovim](https://neovim.io), Codex, and my own custom tools.
 
-🖥️ I live in the terminal and use [Neovim](https://neovim.io/).
+📫 Telegram: @notneedles
 
-📫 Telegram: **@notneedles**
+✏️ Rewrite it in Rust. 🦀
 
-> ✏️ Rewrite it in Rust. 🦀
 
 ---
 
@@ -22,7 +21,9 @@
 
 ![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Dioxus](https://img.shields.io/badge/Dioxus-193549?style=for-the-badge&logo=rust&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)
